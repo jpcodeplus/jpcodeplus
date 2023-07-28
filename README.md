@@ -26,7 +26,7 @@ Obwohl ich gerne selbstständig arbeite, bin ich stets offen für spannende Proj
 
 ## Kontakt
 
-Besuche meine [persönliche Website](https://jp-ka.de), um mehr über meine Projekte und meine Arbeit zu erfahren. Du kannst mich auch auf [LinkedIn](https://www.linkedin.com/in/jpbehrens/) finden.
+Besuche meine [persönliche Website](https://jp-ka.de), um mehr über meine Projekte und meine Arbeit zu erfahren.
 
 ## Lieblingszitat
 
@@ -53,8 +53,7 @@ While I enjoy working independently, I'm always open to exciting projects and co
 
 ## Contact
 
-Visit my [personal website](https://jp-ka.de) to learn more about my projects and work. You can also find me on [LinkedIn](https://www.linkedin.com/in/jpbehrens/).
-
+Visit my [personal website](https://jp-ka.de) to learn more about my projects and work.
 ## Favorite Quote
 
 "The definition of insanity is doing the same thing over and over again and expecting different results."
