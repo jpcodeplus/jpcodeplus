@@ -1,6 +1,7 @@
-# 🚀 JP Behrens - Code Artist | Frontend & Backend Developer
+# 🚀 JP Behrens - Code Artist 
+## Frontend & Backend Developer
 
-## Skills
+### Skills
 - 💻 JavaScript, PHP, SCSS
 - ⚛️ React
 - 🟢 Node
